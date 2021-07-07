@@ -1,6 +1,9 @@
 # This is Path.
 An open-source platform for learning to code on Twitch and YouTube
 
+![Concept](https://user-images.githubusercontent.com/74986053/124757225-41767b80-df25-11eb-9b61-423042a9dc7f.png)
+
+
 We curate the content from video platforms to provide a more supportive environment for learning. Some of the benefits we aim to bring to learners:
 
 - A place with less distractions from non-related content;
